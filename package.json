@@ -1,0 +1,96 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-qrcode-scanner",
+        "scope": null,
+        "escapedName": "react-native-qrcode-scanner",
+        "name": "react-native-qrcode-scanner",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\Users\\renatotn7\\Documents\\projetos\\NF\\CamerApp"
+    ]
+  ],
+  "_from": "react-native-qrcode-scanner@latest",
+  "_id": "react-native-qrcode-scanner@0.0.17",
+  "_inCache": true,
+  "_location": "/react-native-qrcode-scanner",
+  "_nodeVersion": "6.10.1",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/react-native-qrcode-scanner-0.0.17.tgz_1503544599478_0.13715673610568047"
+  },
+  "_npmUser": {
+    "name": "moaazsidat",
+    "email": "moaazsidat@gmail.com"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-qrcode-scanner",
+    "scope": null,
+    "escapedName": "react-native-qrcode-scanner",
+    "name": "react-native-qrcode-scanner",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-qrcode-scanner/-/react-native-qrcode-scanner-0.0.17.tgz",
+  "_shasum": "75621b868a42bf5457f76dbac6afe31fb354872f",
+  "_shrinkwrap": null,
+  "_spec": "react-native-qrcode-scanner",
+  "_where": "C:\\Users\\renatotn7\\Documents\\projetos\\NF\\CamerApp",
+  "author": {
+    "name": "Moaaz Sidat"
+  },
+  "bugs": {
+    "url": "https://github.com/moaazsidat/react-native-qrcode-scanner/issues"
+  },
+  "dependencies": {},
+  "description": "A QR code scanner for React Native.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "75621b868a42bf5457f76dbac6afe31fb354872f",
+    "tarball": "https://registry.npmjs.org/react-native-qrcode-scanner/-/react-native-qrcode-scanner-0.0.17.tgz"
+  },
+  "gitHead": "043c78fef2a2135bf166972fd7aa3ae02bd193b3",
+  "homepage": "https://github.com/moaazsidat/react-native-qrcode-scanner#readme",
+  "keywords": [
+    "react-native",
+    "react",
+    "ios",
+    "qrcode",
+    "qr",
+    "scanner",
+    "barcode"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "moaazsidat",
+      "email": "moaazsidat@gmail.com"
+    }
+  ],
+  "name": "react-native-qrcode-scanner",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "react-native-camera": "^0.10.0"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moaazsidat/react-native-qrcode-scanner.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.17"
+}
